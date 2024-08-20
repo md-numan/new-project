@@ -2,16 +2,71 @@
 
 /* about */
 
+.body-Section{
+    background: blue;
+}
+
 .img{
       border: 0;
       border-radius: 16px 16px 16px 16px;
-      
+      width: 400px;
+      height: 100%;
+     
+     
 }
 
 
+/* about us.html
+
+section {
+      padding: 20px;
+  }
+
+  .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+  }
+
+  h1 {
+      text-align: center;
+      color: #333;
+  }
+
+  p {
+      margin-bottom: 20px;
+  }
+
+  .team {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
+
+  .team-member {
+      text-align: center;
+      margin: 20px;
+      width: 250px;
+  }
+
+  .team-member img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+  }
+
+  .team-member h3 {
+      margin-top: 10px;
+      color: #333;
+  }
+
+  .team-member p {
+      color: #777;
+  } */
 
 
 
 
 
-/* footer */
+
+
